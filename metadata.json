@@ -1,0 +1,6 @@
+{
+  "name": "Pinky AI",
+  "description": "Production Android Personal AI Assistant & Cloud Backend with Voice, Vision, Social Automation, Offline Engine and Glassmorphic Interface.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
